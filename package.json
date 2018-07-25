@@ -1,0 +1,19 @@
+{
+  "name": "flatstagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosesa0609/flatstagram.git"
+  },
+  "author": "Alonzo Moses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosesa0609/flatstagram/issues"
+  },
+  "homepage": "https://github.com/mosesa0609/flatstagram#readme"
+}
