@@ -1,52 +1,5 @@
 [
   {
-    "title":"The Perfect Date",
-    "url":"https://s3.amazonaws.com/learn-verified/perfectDate.png",
-    "comment":"Nice!"
-  },
-  {
-    "title":"Back-end v. Front-end",
-    "url":"https://s3.amazonaws.com/learn-verified/backVFront.jpg",
-    "comment":"Nice!"
-  },
-  {
-    "title":"Good Programmer",
-    "url":"https://s3.amazonaws.com/learn-verified/goodProgrammer.png",
-    "comment":"Nice!"
-  },
-  {
-    "title":"Need Snek",
-    "url":"https://s3.amazonaws.com/learn-verified/needSnekToRun.jpeg",
-    "comment":"Nice!"
-  },
-  {
-    "title":"Risky Captcha",
-    "url":"https://s3.amazonaws.com/learn-verified/hopeThisDoesntDoDmg.jpg",
-    "comment":"Nice!"
-  },
-  {
-    "title":"Amazon Sync Loader",
-    "url":"https://s3.amazonaws.com/learn-verified/syncingByAmazon.gif",
-    "comment":"Nice!"
-  },
-  {
-    "title":"Just Kidding",
-    "url":"https://s3.amazonaws.com/learn-verified/woopsNevermind.png",
-    "comment":"Nice!"
-  },
-  {
-    "title":"Assembly v. The World",
-    "url":"https://s3.amazonaws.com/learn-verified/divideBy10.png",
-    "comment":"Nice!"
-  },
-  {
-    "title":"WaffleBoard",
-    "url":"https://s3.amazonaws.com/learn-verified/waffleBoard.png",
-    "comment":"Nice!"
-  },
-  {
-    "title":"The Bat Strikes Again",
-    "url":"https://s3.amazonaws.com/learn-verified/NaNx10Batman.png",
-    "comment":"Nice!"
+    "comment":""
   }
 ]
