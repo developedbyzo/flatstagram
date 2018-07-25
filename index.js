@@ -2,7 +2,7 @@ const express = require('express')
 const hbs = require('express-handlebars')
 const bodyParser = require('body-parser')
 const methodOver = require('method-override')
-const instas = require('./controller/instas')
+const flatstas = require('./controller/flatstas')
 const app = express()
 
 app.use(methodOver('_method'))
@@ -19,7 +19,7 @@ app.engine('.hbs', hbs({
   defaultLayout: 'layout'
 }))
 
-app.use('/', instas)
+app.use('/', flatstas)
 
 app.listen(app.get('port'), () => {
   console.log('For the Horde!')
